@@ -53,6 +53,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/didemo/services/PrimaryGermanGreetingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/example/didemo/services/PrimaryGreetingService.java">
           <value>
             <set />
@@ -89,6 +94,61 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/example/didemo/Controllers/SetterInjectedControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../errors/spring5-di-demo-di-assignment/src/main/java/guru/springframework/controllers/ConstructorInjectedController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../errors/spring5-di-demo-di-assignment/src/main/java/guru/springframework/controllers/GetterInjectedController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../errors/spring5-di-demo-di-assignment/src/main/java/guru/springframework/controllers/MyController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../errors/spring5-di-demo-di-assignment/src/main/java/guru/springframework/controllers/PropertyInjectedController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../errors/spring5-di-demo-di-assignment/src/main/java/guru/springframework/repository/GreetingRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../errors/spring5-di-demo-di-assignment/src/main/java/guru/springframework/repository/GreetingRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../errors/spring5-di-demo-di-assignment/src/main/java/guru/springframework/services/ConstructorGreetingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../errors/spring5-di-demo-di-assignment/src/main/java/guru/springframework/services/PrimaryGermanGreetingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../errors/spring5-di-demo-di-assignment/src/main/java/guru/springframework/services/PrimaryGreetingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../errors/spring5-di-demo-di-assignment/src/main/java/guru/springframework/services/PrimarySpanishGreetingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../errors/spring5-di-demo-di-assignment/src/main/resources/application.properties">
           <value>
             <set />
           </value>
