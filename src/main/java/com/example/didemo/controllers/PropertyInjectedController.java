@@ -1,6 +1,6 @@
 package com.example.didemo.controllers;
 
-import com.example.didemo.services.GreetingServiceImpl;
+import com.example.didemo.services.GreetingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 
@@ -11,7 +11,7 @@ public class PropertyInjectedController {
 
     //Hago uso de la interfaz no de la propia clase
     @Autowired
-    public GreetingServiceImpl greetingServiceImpl;
+    public GreetingService greetingServiceImpl;
 
     public String sayHello(){
         return greetingServiceImpl.sayGreeting();

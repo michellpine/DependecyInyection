@@ -1,7 +1,6 @@
 package com.example.didemo.Controllers;
 
 import com.example.didemo.controllers.PropertyInjectedController;
-import com.example.didemo.services.GreetingService;
 import com.example.didemo.services.GreetingServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
