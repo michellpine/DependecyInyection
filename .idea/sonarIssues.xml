@@ -53,7 +53,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/example/didemo/Controllers/ConstructorInjectedControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/example/didemo/Controllers/PropertyInjectedControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/example/didemo/Controllers/SetterInjectedControllerTest.java">
           <value>
             <set />
           </value>

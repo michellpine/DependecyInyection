@@ -1,13 +1,20 @@
 package com.example.didemo.controllers;
 
 import com.example.didemo.services.GreetingServiceImpl;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
 
+//Inyeccion de derpendencias por medio de atributo
+
+@Controller
 public class PropertyInjectedController {
 
-    public GreetingServiceImpl greetingService;
+    //Hago uso de la interfaz no de la propia clase
+    @Autowired
+    public GreetingServiceImpl greetingServiceImpl;
 
     public String sayHello(){
-        return greetingService.sayGreeting();
+        return greetingServiceImpl.sayGreeting();
     }
 
 }
