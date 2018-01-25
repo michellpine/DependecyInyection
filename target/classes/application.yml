@@ -2,4 +2,13 @@ demo:
   jms:
     username: JMS Username
     password: somepass
-    url:
+    url: someurl
+
+
+---
+Spring:
+   profiles: de
+demo:
+  jms:
+    username: JMS Username $$$$ German
+    
