@@ -1,0 +1,22 @@
+# this is a comment
+
+name: Michu
+
+names:
+  -John
+  -Paul
+  -Ringo
+
+pound_sign: "#"
+
+book:
+  author: Joe Black
+  publisher: random house
+
+truth: yes
+
+another_truth: true
+
+more_true: true
+
+false: no #
